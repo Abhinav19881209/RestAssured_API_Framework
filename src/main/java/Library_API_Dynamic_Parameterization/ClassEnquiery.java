@@ -21,4 +21,5 @@ public class ClassEnquiery {
 		.statusCode(200);
 	
 	}
+	
 }

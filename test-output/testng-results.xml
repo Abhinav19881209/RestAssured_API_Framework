@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-30T17:02:13 IST" name="Default suite" finished-at="2023-07-30T17:02:15 IST" duration-ms="1275">
+  <suite started-at="2023-08-05T15:58:28 IST" name="Default suite" finished-at="2023-08-05T15:58:30 IST" duration-ms="1584">
     <groups>
     </groups>
-    <test started-at="2023-07-30T17:02:13 IST" name="Default test" finished-at="2023-07-30T17:02:15 IST" duration-ms="1275">
-      <class name="pojoserialization.AddPlaceGooglemap">
-        <test-method signature="addPlace()[pri:0, instance:pojoserialization.AddPlaceGooglemap@6973b51b]" started-at="2023-07-30T17:02:13 IST" name="addPlace" finished-at="2023-07-30T17:02:15 IST" duration-ms="1245" status="PASS">
+    <test started-at="2023-08-05T15:58:28 IST" name="Default test" finished-at="2023-08-05T15:58:30 IST" duration-ms="1584">
+      <class name="Library_API_Excel.AddLibrary">
+        <test-method signature="addLibraryByHashMap()[pri:0, instance:Library_API_Excel.AddLibrary@6c80d78a]" started-at="2023-08-05T15:58:28 IST" name="addLibraryByHashMap" finished-at="2023-08-05T15:58:30 IST" duration-ms="1553" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addPlace -->
-      </class> <!-- pojoserialization.AddPlaceGooglemap -->
+        </test-method> <!-- addLibraryByHashMap -->
+      </class> <!-- Library_API_Excel.AddLibrary -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
